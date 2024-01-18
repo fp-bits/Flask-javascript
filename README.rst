@@ -1,4 +1,4 @@
-JavaScript Ajax Example
+Python / Flask - JavaScript Ajax Example
 =======================
 
 Demonstrates how to post form data and process a JSON response using
